@@ -1,23 +1,60 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
-  <link rel="stylesheet" href="rainbow.css">
-</head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Create Your Rainbow</title>
+   
+    <link href="https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap" rel="stylesheet">
+  
+  </head>
 <body>
-  <div class="center">
-    <ul>
-      <li class="one"></li>
-      <li class="two"></li>
-      <li class="three"></li>
-      <li class="four"></li>
-      <li class="five"></li>
-      <li class="six"></li>
-      <li class="seven"></li>
-    </ul>
-  </div>
+    <div class="center">
+      
+        <h1>Create Your Rainbow</h1>
+
+        <ul>
+            <li class="one"></li>
+            <li class="two"></li>
+            <li class="three"></li>
+            <li class="four"></li>
+            <li class="five"></li>
+            <li class="six"></li>
+            <li class="seven"></li>
+        </ul>
+
+        <div class="controls">
+            <input type="color" id="color1" value="#FF0000">
+            <input type="color" id="color2" value="#FF7F00">
+            <input type="color" id="color3" value="#FFFF00">
+            <input type="color" id="color4" value="#00FF00">
+            <input type="color" id="color5" value="#0000FF">
+            <input type="color" id="color6" value="#4B0082">
+            <input type="color" id="color7" value="#9400D3">
+        </div>
+    </div>
+
+    <script>
+        const lis = document.querySelectorAll('ul li');
+        const pickers = document.querySelectorAll('.controls input[type="color"]');
+
+
+        const applyColor = (liElement, colorPicker) => {
+    
+            liElement.style.borderColor = colorPicker.value;
+        };
+
+        pickers.forEach((picker, i) => {
+  
+            applyColor(lis[i], picker);
+
+            picker.addEventListener('input', () => {
+                applyColor(lis[i], picker);
+            });
+        });
+    </script>
 </body>
 </html>
+
+  
+  
